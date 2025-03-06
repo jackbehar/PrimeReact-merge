@@ -2,7 +2,7 @@ import * as React from 'react';
 import PropTypes from 'prop-types';
 import { Button as ButtonM } from 'primereact/button';
 /**
- * @uxpindocurl https://ui.shadcn.com/docs/components/card
+ * @uxpindocurl https://primereact.org/buttton/
  * @uxpindescription Displays a card with header, content, and footer.
  */
 function Button(props) {

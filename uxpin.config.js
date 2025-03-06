@@ -6,6 +6,7 @@ module.exports = {
         include: [
           'src/components/Button/Button.jsx',
           'src/components/Card/Card.jsx',
+          'src/components/Checkbox/Checkbox.jsx',
         ],
       },
     ],

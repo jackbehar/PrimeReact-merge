@@ -2,7 +2,7 @@ import * as React from 'react';
 import PropTypes from 'prop-types';
 import { Card as CardM } from 'primereact/card';
 /**
- * @uxpindocurl https://ui.shadcn.com/docs/components/card
+ * @uxpindocurl https://primereact.org/card/
  * @uxpindescription Displays a card with header, content, and footer.
  */
 function Card(props) {
